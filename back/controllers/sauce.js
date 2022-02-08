@@ -156,7 +156,7 @@ exports.userLike = (req, res, next) => {
                             $pull: { usersLiked: userId },
                             _id: req.params.id
                         })
-                    .then(() => res.status(200).json({ message: "Vous n'avez plus d'avis sur cette saucec!" }))
+                    .then(() => res.status(200).json({ message: "Vous n'avez plus d'avis sur cette sauce!" }))
                     .catch(error => res.status(400).json({ error }));
 
             //Like = 0 et userId est inclus dans le tableau usersDisliked            

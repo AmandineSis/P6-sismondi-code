@@ -1,7 +1,7 @@
 node_modules
 
 #le dossier images ne doit pas être visible sur GitHub
-#ici j'ai utilisé un repo Git privé afin de laisser le dossier images visible
+/images
 
 #le fichier .env  contenant les données sensibles ne devrait pas être visible sur GitHub
-#ici j'ai utilisé un repo Git privé afin de laisser le dossier .env visible
+#pour ce projet je n'ai volontairement pas caché ses données
