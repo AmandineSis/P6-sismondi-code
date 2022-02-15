@@ -5,3 +5,4 @@ node_modules
 
 #le fichier .env  contenant les données sensibles ne devrait pas être visible sur GitHub
 #pour ce projet je n'ai volontairement pas caché ses données
+.env
