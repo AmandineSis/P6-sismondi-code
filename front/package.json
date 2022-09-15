@@ -14,7 +14,9 @@
     "concurrently": "^7.0.0",
     "http-server": "^14.1.0",
     "live-server": "^1.2.1",
-    "node-sass": "^7.0.1"
+    "minimist": "^1.2.6",
+    "node-sass": "^7.0.1",
+    "scss-tokenizer": "^0.4.3"
   },
   "devDependencies": {
     "run-script-os": "^1.1.6"
