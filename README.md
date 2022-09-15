@@ -1,5 +1,7 @@
 # HOT TAKES #
 
+<img src='front\assets\images\screen_shot_hot_takes.png' width="300">
+
 ## Installation ##
 
 Here are the dependancies you need to install:
